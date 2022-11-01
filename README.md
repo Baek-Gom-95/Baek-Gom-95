@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=70)
+
 <div align="center">
+👋 Hi, There<br><br>
 📧 Email 📧<br>
 jihunmm02@gmail.com<br><br>
 💻 Study<br>
