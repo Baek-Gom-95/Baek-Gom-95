@@ -4,6 +4,7 @@
 📧 Email 📧<br>
 jihunmm02@gmail.com<br><br>
 💻 Study<br>
+ goott academy Java Course (2019.09.01 ~ 2020.02.25) <br>
  yagom academy iOS code starter 2th (2021.12.06 ~ 2022.01.06) <br>
  yagom academy iOS career starter 6th (2022.04.11 ~ 2022.10.07)
 <br><br>
